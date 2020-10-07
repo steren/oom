@@ -1,0 +1,13 @@
+{
+  "name": "oom",
+  "version": "0.0.1",
+  "description": "an app that runs out of memory ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "steren.giannini@gmail.com",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
